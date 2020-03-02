@@ -172,9 +172,10 @@ body{
 	width: 100px;
 }
 #box3{
-	height: 1000px;
+	text-align: center;
+	padding-bottom: 25px;
+	padding-top: 25px;
 	background-color: #ddd;
-	margin: 25px;
 	/*background-image: url(box3.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;*/
@@ -191,6 +192,7 @@ body{
 
 }*/
 .box3-card{
+	margin: 25px;
 	background-color: #222;
 	height: 800px; 
 	width: 550px;
@@ -450,6 +452,6 @@ body{
 }
 ::-webkit-scrollbar-thumb{
 	background-color: #00ff44; 
-	border-bottom-right-radius: 
+	border-bottom-right-radius: 100px;
 }
 
