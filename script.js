@@ -61,4 +61,4 @@ $("document").ready(function(){
  	})
 })
 
-alert("iuiyujhbjbbv");
+alert("ЧТО ВЫ ПОДПИСАНЫ НА ИНСТАГРАМ Grodof Shop");
