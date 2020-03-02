@@ -11,6 +11,12 @@ body{
 	background-color: #000;
 	padding-top: 60px;
 }
+#top{
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+}
 #top-menu{
 	position: fixed;
 	height: 60px;
