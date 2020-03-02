@@ -455,3 +455,10 @@ body{
 	border-bottom-right-radius: 100px;
 }
 
+@media(max-width: 800px;){
+	#box4-more{
+		padding-left: 5%;
+		
+	}
+}
+
