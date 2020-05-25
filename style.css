@@ -22,6 +22,7 @@ body{
 	width: 100%;
 	font-size: 0;
 	position: relative;
+	color: #fff;
 
 }
 #slide1{
@@ -136,6 +137,9 @@ body{
 #top-menu-btn2{
 	border: none;
 	padding: 13px; 
+}
+#box2{
+	
 }
 #feed{
 	position: relative;
