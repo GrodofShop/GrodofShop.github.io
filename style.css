@@ -91,7 +91,6 @@ body{
 #slide1-title{
 	left: 50%;
 	text-align: center;
-
 }
 
 .slide-title p{
@@ -99,9 +98,6 @@ body{
 	color: #000;
 	left: 50%; 
 	margin: 0;
-
-
-
 }
 .slide-title img{
 	height: 150px;
