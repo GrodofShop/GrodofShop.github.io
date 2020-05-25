@@ -40,7 +40,7 @@ body{
 }
 #slide2-title b{
 	font-size: 50px;
-	color: #4dccfa;
+	color: #654c;
 	font-family: fort;
 }
 #slide2-title p{
@@ -96,7 +96,7 @@ body{
 
 .slide-title p{
 	font-size: 50px;
-	color: #fff;
+	color: #000;
 	left: 50%; 
 	margin: 0;
 
